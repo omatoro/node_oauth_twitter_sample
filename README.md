@@ -17,7 +17,7 @@ node_oauth_twitter_sample
  * twitter oauth test
  */
 (function(ns) {
-  ns.consumerKey    = "--insert--consumerKey";
+	ns.consumerKey    = "--insert--consumerKey";
 	ns.consumerSecret = "--insert--consumerSecret";
 })(exports);
 
